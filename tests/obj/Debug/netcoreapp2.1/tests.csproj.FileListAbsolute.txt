@@ -1,0 +1,17 @@
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.1/tests.csprojAssemblyReference.cache
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.1/tests.csproj.CoreCompileInputs.cache
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfoInputs.cache
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfo.cs
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/tests.deps.json
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.json
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.dev.json
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/tests.dll
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/tests.pdb
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/api.dll
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.1/api.pdb
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.1/tests.csproj.CopyComplete
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.1/tests.dll
+/Users/mac/WorkSpace/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.1/tests.pdb
